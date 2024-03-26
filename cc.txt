@@ -1,0 +1,2 @@
+cloud computing is mostly done in puTTy
+we use github to clone
